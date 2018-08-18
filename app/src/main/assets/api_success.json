@@ -1,0 +1,1984 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2018 The New York Times Company.  All Rights Reserved.",
+    "num_results": 1685,
+    "results": [
+        {
+            "url": "https://www.nytimes.com/interactive/2018/upshot/election-2016-voting-precinct-maps.html",
+            "adx_keywords": "Presidential Election of 2016;Trump, Donald J;Clinton, Hillary Rodham;Maps;Republican Party;Democratic Party;United States Politics and Government",
+            "column": "",
+            "section": "The Upshot",
+            "byline": "By MATTHEW BLOCH, LARRY BUCHANAN, JOSH KATZ and KEVIN QUEALY",
+            "type": "Interactive",
+            "title": "An Extremely Detailed Map of the 2016 Presidential Election",
+            "abstract": "An interactive map lets readers explore the 2016 election in new detail.",
+            "published_date": "2018-07-25",
+            "source": "The New York Times",
+            "id": 100000005974464,
+            "asset_id": 100000005974464,
+            "views": 1,
+            "des_facet": [
+                "PRESIDENTIAL ELECTION OF 2016",
+                "MAPS",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "REPUBLICAN PARTY",
+                "DEMOCRATIC PARTY"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J",
+                "CLINTON, HILLARY RODHAM"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/06/25/upshot/2016-election-precinct-map-trump-clinton-1532540382427/2016-election-precinct-map-trump-clinton-1532540382427-square320.png",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/06/25/upshot/2016-election-precinct-map-trump-clinton-1532540382427/2016-election-precinct-map-trump-clinton-1532540382427-thumbStandard.png",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/06/25/upshot/2016-election-precinct-map-trump-clinton-1532540382427/2016-election-precinct-map-trump-clinton-1532540382427-articleInline.png",
+                            "format": "Normal",
+                            "height": 125,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/06/25/upshot/2016-election-precinct-map-trump-clinton-1532540382427/2016-election-precinct-map-trump-clinton-1532540382427-sfSpan.png",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/06/25/upshot/2016-election-precinct-map-trump-clinton-1532540382427/2016-election-precinct-map-trump-clinton-1532540382427-jumbo.png",
+                            "format": "Jumbo",
+                            "height": 674,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/06/25/upshot/2016-election-precinct-map-trump-clinton-1532540382427/2016-election-precinct-map-trump-clinton-1532540382427-superJumbo.png",
+                            "format": "superJumbo",
+                            "height": 798,
+                            "width": 1212
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/06/25/upshot/2016-election-precinct-map-trump-clinton-1532540382427/2016-election-precinct-map-trump-clinton-1532540382427-square640.png",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/06/25/upshot/2016-election-precinct-map-trump-clinton-1532540382427/2016-election-precinct-map-trump-clinton-1532540382427-thumbLarge.png",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/06/25/upshot/2016-election-precinct-map-trump-clinton-1532540382427/2016-election-precinct-map-trump-clinton-1532540382427-mediumThreeByTwo210.png",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/06/25/upshot/2016-election-precinct-map-trump-clinton-1532540382427/2016-election-precinct-map-trump-clinton-1532540382427-mediumThreeByTwo440.png",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2018/07/25/magazine/big-business-gwyneth-paltrow-wellness.html",
+            "adx_keywords": "Paltrow, Gwyneth;Goop.com;Women and Girls",
+            "column": "Feature",
+            "section": "Magazine",
+            "byline": "By TAFFY BRODESSER-AKNER",
+            "type": "Article",
+            "title": "How Goop’s Haters Made Gwyneth Paltrow’s Company Worth $250 Million",
+            "abstract": "Inside the growth of the most controversial brand in the wellness industry.",
+            "published_date": "2018-07-25",
+            "source": "The New York Times",
+            "id": 100000006018598,
+            "asset_id": 100000006018598,
+            "views": 2,
+            "des_facet": "",
+            "org_facet": [
+                "GOOP.COM",
+                "WOMEN AND GIRLS"
+            ],
+            "per_facet": [
+                "PALTROW, GWYNETH"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Gwyneth Paltrow.",
+                    "copyright": "Amanda Demme for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/magazine/29mag-paltrow-slide-HG8U/29mag-paltrow-slide-HG8U-square320.png",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/magazine/29mag-paltrow-slide-HG8U/29mag-paltrow-slide-HG8U-thumbStandard.png",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/magazine/29mag-paltrow-slide-HG8U/29mag-paltrow-slide-HG8U-articleInline.png",
+                            "format": "Normal",
+                            "height": 226,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/magazine/29mag-paltrow-slide-HG8U/29mag-paltrow-slide-HG8U-sfSpan.png",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/magazine/29mag-paltrow-slide-HG8U/29mag-paltrow-slide-HG8U-jumbo.png",
+                            "format": "Jumbo",
+                            "height": 1024,
+                            "width": 860
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/magazine/29mag-paltrow-slide-HG8U/29mag-paltrow-slide-HG8U-superJumbo.png",
+                            "format": "superJumbo",
+                            "height": 2048,
+                            "width": 1719
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/magazine/29mag-paltrow-slide-HG8U/29mag-paltrow-slide-HG8U-square640.png",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/magazine/29mag-paltrow-slide-HG8U/29mag-paltrow-slide-HG8U-thumbLarge.png",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/magazine/29mag-paltrow-slide-HG8U/29mag-paltrow-slide-HG8U-mediumThreeByTwo210.png",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/magazine/29mag-paltrow-slide-HG8U/29mag-paltrow-slide-HG8U-mediumThreeByTwo440.png",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2018/07/27/opinion/sunday/motherhood-in-the-age-of-fear.html",
+            "adx_keywords": "Parenting;Child Abuse and Neglect;Women and Girls;Discrimination;Children and Childhood",
+            "column": null,
+            "section": "Opinion",
+            "byline": "By KIM BROOKS",
+            "type": "Article",
+            "title": "Motherhood in the Age of Fear",
+            "abstract": "Women are being harassed and even arrested for making perfectly rational parenting decisions. ",
+            "published_date": "2018-07-27",
+            "source": "The New York Times",
+            "id": 100000006027142,
+            "asset_id": 100000006027142,
+            "views": 3,
+            "des_facet": [
+                "PARENTING",
+                "CHILD ABUSE AND NEGLECT",
+                "DISCRIMINATION",
+                "CHILDREN AND CHILDHOOD"
+            ],
+            "org_facet": [
+                "WOMEN AND GIRLS"
+            ],
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eleni Kalorkoti",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/sunday/29brooks-web/29brooks-web-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/sunday/29brooks-web/29brooks-web-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/sunday/29brooks-web/29brooks-web-articleInline-v4.jpg",
+                            "format": "Normal",
+                            "height": 145,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/sunday/29brooks-web/29brooks-web-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/sunday/29brooks-web/merlin_141742368_10c10ace-1c40-4d1f-8799-acde215c7f9d-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 1024,
+                            "width": 819
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/sunday/29brooks-web/merlin_141742368_10c10ace-1c40-4d1f-8799-acde215c7f9d-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 2048,
+                            "width": 1637
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/sunday/29brooks-web/29brooks-web-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/sunday/29brooks-web/29brooks-web-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/sunday/29brooks-web/29brooks-web-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/sunday/29brooks-web/29brooks-web-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2018/07/24/us/politics/trump-putin-cnn.html",
+            "adx_keywords": "Trump, Donald J;CNN;Russian Interference in 2016 US Elections and Ties to Trump Associates;Trump, Melania;Air Force One (Jet);United States International Relations;News and News Media",
+            "column": "White House Memo",
+            "section": "U.S.",
+            "byline": "By KATIE ROGERS and MAGGIE HABERMAN",
+            "type": "Article",
+            "title": "Spotting CNN on a TV Aboard Air Force One, Trump Rages Against Reality",
+            "abstract": "On the Trumps’ recent trip overseas, Melania Trump’s television was tuned to CNN. The president, who is increasingly building walls against the outside world, was not pleased.",
+            "published_date": "2018-07-24",
+            "source": "The New York Times",
+            "id": 100000006022512,
+            "asset_id": 100000006022512,
+            "views": 4,
+            "des_facet": [
+                "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+                "UNITED STATES INTERNATIONAL RELATIONS"
+            ],
+            "org_facet": [
+                "CNN",
+                "AIR FORCE ONE (JET)",
+                "NEWS AND NEWS MEDIA"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J",
+                "TRUMP, MELANIA"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "On Tuesday, President Trump doubled down in his efforts to tell supporters to trust him over the words of critics and news reports.",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/politics/25dc-trump-print/25dc-trump-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/politics/25dc-trump-print/25dc-trump-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/politics/25dc-trump-print/merlin_141651612_8c3bc641-1e02-4c24-84d6-910aabc5bd87-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 122,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/politics/25dc-trump-print/25dc-trump-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/politics/25dc-trump-print/merlin_141651612_8c3bc641-1e02-4c24-84d6-910aabc5bd87-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 658,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/politics/25dc-trump-print/merlin_141651612_8c3bc641-1e02-4c24-84d6-910aabc5bd87-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1316,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/politics/25dc-trump-print/25dc-trump-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/politics/25dc-trump-print/25dc-trump-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/politics/25dc-trump-print/25dc-trump-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/politics/25dc-trump-print/25dc-trump-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2018/07/23/business/irs-phone-scams-jeff-sessions.html",
+            "adx_keywords": "Money Laundering;Frauds and Swindling;Internal Revenue Service;Justice Department;Sessions, Jefferson B III;Ahmedabad (India);United States;Patel, Miteshkumar (1987- );Joshi, Sunny;Patel, Hardik (1987- )",
+            "column": null,
+            "section": "Business Day",
+            "byline": "By CHRISTINE HAUSER",
+            "type": "Article",
+            "title": "U.S. Breaks Up Vast I.R.S. Phone Scam",
+            "abstract": "The Justice Department said sentences of up to 20 years in prison should discourage future fraud. Callers posed as tax or immigration officials.",
+            "published_date": "2018-07-23",
+            "source": "The New York Times",
+            "id": 100000006020236,
+            "asset_id": 100000006020236,
+            "views": 5,
+            "des_facet": [
+                "MONEY LAUNDERING",
+                "FRAUDS AND SWINDLING"
+            ],
+            "org_facet": [
+                "INTERNAL REVENUE SERVICE",
+                "JUSTICE DEPARTMENT"
+            ],
+            "per_facet": [
+                "SESSIONS, JEFFERSON B III",
+                "PATEL, MITESHKUMAR (1987- )",
+                "JOSHI, SUNNY",
+                "PATEL, HARDIK (1987- )"
+            ],
+            "geo_facet": [
+                "AHMEDABAD (INDIA)",
+                "UNITED STATES"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police officials escorted Sagar Thakkar, a suspect in the call center scams, to a police station in Thane, on the outskirts of Mumbai, India, last year.",
+                    "copyright": "Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/23/us/24xp-scam/24xp-scam-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/23/us/24xp-scam/24xp-scam-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/23/us/24xp-scam/24xp-scam-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 128,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/23/us/24xp-scam/24xp-scam-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/23/us/24xp-scam/24xp-scam-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 688,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/23/us/24xp-scam/24xp-scam-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1376,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/23/us/24xp-scam/24xp-scam-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/23/us/24xp-scam/24xp-scam-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/23/us/24xp-scam/24xp-scam-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/23/us/24xp-scam/24xp-scam-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2018/07/30/us/politics/trump-tax-cuts-rich.html",
+            "adx_keywords": "United States Economy;Federal Taxes (US);United States Politics and Government;Capital Gains Tax;Tax Cuts and Jobs Act (2017);Trump, Donald J",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By ALAN RAPPEPORT and JIM TANKERSLEY",
+            "type": "Article",
+            "title": "Trump Administration Mulls a Unilateral Tax Cut for the Rich",
+            "abstract": "A proposal under consideration at the Treasury Department would bypass Congress and use federal regulation to index capital gains for inflation, a $100 billion boost for high earners.",
+            "published_date": "2018-07-30",
+            "source": "The New York Times",
+            "id": 100000006029004,
+            "asset_id": 100000006029004,
+            "views": 6,
+            "des_facet": [
+                "UNITED STATES ECONOMY",
+                "FEDERAL TAXES (US)",
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "CAPITAL GAINS TAX"
+            ],
+            "org_facet": [
+                "TAX CUTS AND JOBS ACT (2017)"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "&ldquo;If it can&rsquo;t get done through a legislation process, we will look at what tools at Treasury we have to do it on our own and we&rsquo;ll consider that,&rdquo; said Steven Mnuchin, the Treasury secretary.",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/31/us/31dc-tax-print/31dc-TAX-alpha-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/31/us/31dc-tax-print/31dc-TAX-alpha-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/31/us/31dc-tax-print/31dc-TAX-alpha-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/31/us/31dc-tax-print/31dc-TAX-alpha-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/31/us/31dc-tax-print/31dc-TAX-alpha-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 683,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/31/us/31dc-tax-print/31dc-TAX-alpha-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1365,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/31/us/31dc-tax-print/31dc-TAX-alpha-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/31/us/31dc-tax-print/31dc-TAX-alpha-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/31/us/31dc-tax-print/31dc-TAX-alpha-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/31/us/31dc-tax-print/31dc-TAX-alpha-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2018/07/24/well/when-we-eat-or-dont-eat-may-be-critical-for-health.html",
+            "adx_keywords": "Food;Diabetes;Biorhythms;Weight;Obesity;Diet and Nutrition;Sleep;Snack Foods;Insulin;The Circadian Code: Lose Weight, Supercharge Your Energy, and Transform Your Health from Morning to Midnight (Book);Panda, Satchin;Books and Literature",
+            "column": null,
+            "section": "Well",
+            "byline": "By ANAHAD O’CONNOR",
+            "type": "Article",
+            "title": "When We Eat, or Don’t Eat, May Be Critical for Health",
+            "abstract": "A growing body of research suggests that our bodies function optimally when we align our eating patterns with our circadian rhythms.",
+            "published_date": "2018-07-24",
+            "source": "The New York Times",
+            "id": 100000005999626,
+            "asset_id": 100000005999626,
+            "views": 7,
+            "des_facet": [
+                "FOOD",
+                "DIABETES",
+                "BIORHYTHMS"
+            ],
+            "org_facet": [
+                "WEIGHT",
+                "OBESITY",
+                "DIET AND NUTRITION",
+                "SLEEP",
+                "SNACK FOODS",
+                "INSULIN",
+                "BOOKS AND LITERATURE"
+            ],
+            "per_facet": [
+                "PANDA, SATCHIN"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Evan Cohen",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/24/autossell/24sci_circadian/24sci_circadian-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/24/autossell/24sci_circadian/24sci_circadian-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/24/autossell/24sci_circadian/merlin_141453360_4fa5adb6-751e-47d0-a05f-76b2b32c6ae4-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/24/autossell/24sci_circadian/merlin_141453360_4fa5adb6-751e-47d0-a05f-76b2b32c6ae4-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/24/autossell/24sci_circadian/merlin_141453360_4fa5adb6-751e-47d0-a05f-76b2b32c6ae4-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 683,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/24/autossell/24sci_circadian/merlin_141453360_4fa5adb6-751e-47d0-a05f-76b2b32c6ae4-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1365,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/24/autossell/24sci_circadian/24sci_circadian-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/24/autossell/24sci_circadian/24sci_circadian-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/24/autossell/24sci_circadian/merlin_141453360_4fa5adb6-751e-47d0-a05f-76b2b32c6ae4-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/24/autossell/24sci_circadian/merlin_141453360_4fa5adb6-751e-47d0-a05f-76b2b32c6ae4-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2018/07/31/us/politics/facebook-political-campaign-midterms.html",
+            "adx_keywords": "Facebook Inc;Midterm Elections (2018);Cyberwarfare and Defense;Rumors and Misinformation;Russia;Internet Research Agency (Russia);Russian Interference in 2016 US Elections and Ties to Trump Associates;United States Politics and Government",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By NICHOLAS FANDOS and KEVIN ROOSE",
+            "type": "Article",
+            "title": "Facebook Identifies an Active Political Influence Campaign Using Fake Accounts",
+            "abstract": "A coordinated effort, involving 32 pages and fake accounts, included amplifying division around white supremacy and the #AbolishICE movement, the social network said.",
+            "published_date": "2018-07-31",
+            "source": "The New York Times",
+            "id": 100000006033389,
+            "asset_id": 100000006033389,
+            "views": 8,
+            "des_facet": [
+                "MIDTERM ELECTIONS (2018)",
+                "CYBERWARFARE AND DEFENSE",
+                "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "FACEBOOK INC",
+                "RUMORS AND MISINFORMATION",
+                "INTERNET RESEARCH AGENCY (RUSSIA)"
+            ],
+            "per_facet": "",
+            "geo_facet": [
+                "RUSSIA"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg before testifying during a joint hearing of the Senate Commerce and Judiciary Committees in April.",
+                    "copyright": "Alex Brandon/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/08/01/us/01dc-trolls-print/01dc-trolls-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/08/01/us/01dc-trolls-print/01dc-trolls-print-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/08/01/us/01dc-trolls-print/merlin_136979031_8d21b6e7-eb8b-4f6d-af0f-63cea0c6e6af-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 121,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/08/01/us/01dc-trolls-print/01dc-trolls-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/08/01/us/01dc-trolls-print/merlin_136979031_8d21b6e7-eb8b-4f6d-af0f-63cea0c6e6af-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 650,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/08/01/us/01dc-trolls-print/merlin_136979031_8d21b6e7-eb8b-4f6d-af0f-63cea0c6e6af-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1301,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/08/01/us/01dc-trolls-print/01dc-trolls-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/08/01/us/01dc-trolls-print/01dc-trolls-print-thumbLarge-v3.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/08/01/us/01dc-trolls-print/01dc-trolls-print-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/08/01/us/01dc-trolls-print/01dc-trolls-print-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2018/07/24/watching/best-netflix-originals.html",
+            "adx_keywords": "GLOW (TV Program);Queer Eye (TV Program);Nailed It! (TV Program);The Break With Michelle Wolf (TV Program);The Staircase (TV Program);Television;Netflix Inc",
+            "column": null,
+            "section": "Watching",
+            "byline": "By JUDY BERMAN",
+            "type": "Article",
+            "title": "9 Recent Netflix Original Series That Are Worth Your Time",
+            "abstract": "Recent highlights include true-crime documentaries, an irreverent weekly talk show and a very angry cartoon panda.",
+            "published_date": "2018-07-24",
+            "source": "The New York Times",
+            "id": 100000006022306,
+            "asset_id": 100000006022306,
+            "views": 9,
+            "des_facet": [
+                "TELEVISION"
+            ],
+            "org_facet": [
+                "NETFLIX INC"
+            ],
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "William Rothstein and Marjorie Diehl-Armstrong as seen in &ldquo;Evil Genius: The True Story of America’s Most Diabolical Bank Heist.&rdquo;",
+                    "copyright": "Netflix",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/watching/27netflix-originals5/24netflix-originals4-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/watching/27netflix-originals5/24netflix-originals4-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/watching/27netflix-originals5/24netflix-originals4-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 107,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/watching/27netflix-originals5/24netflix-originals4-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/watching/27netflix-originals5/24netflix-originals4-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 576,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/watching/27netflix-originals5/24netflix-originals4-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1152,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/watching/27netflix-originals5/24netflix-originals4-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/watching/27netflix-originals5/24netflix-originals4-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/watching/27netflix-originals5/24netflix-originals4-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/watching/27netflix-originals5/24netflix-originals4-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2018/07/24/science/merganser-ducklings-photo.html",
+            "adx_keywords": "Ducks;Minnesota",
+            "column": null,
+            "section": "Science",
+            "byline": "By SARAH MERVOSH",
+            "type": "Article",
+            "title": "1 Hen, 76 Ducklings: What’s the Deal With This Picture?",
+            "abstract": "“It’s an extraordinary sighting.” An amateur wildlife photographer captured dozens of ducklings following a single hen on a lake in Minnesota.",
+            "published_date": "2018-07-24",
+            "source": "The New York Times",
+            "id": 100000006019912,
+            "asset_id": 100000006019912,
+            "views": 10,
+            "des_facet": [
+                "DUCKS"
+            ],
+            "org_facet": "",
+            "per_facet": "",
+            "geo_facet": [
+                "MINNESOTA"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dozens of common merganser ducklings following Mama on Lake Bemidji in Minnesota.",
+                    "copyright": "Brent Cizek",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/26/us/26xp-ducklings-print/24ducklings_xp-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/26/us/26xp-ducklings-print/24ducklings_xp-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/26/us/26xp-ducklings-print/24ducklings_xp-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/26/us/26xp-ducklings-print/24ducklings_xp-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/26/us/26xp-ducklings-print/24ducklings_xp-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 538,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/26/us/26xp-ducklings-print/24ducklings_xp-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 630,
+                            "width": 1200
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/26/us/26xp-ducklings-print/24ducklings_xp-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/26/us/26xp-ducklings-print/24ducklings_xp-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/26/us/26xp-ducklings-print/24ducklings_xp-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2018/07/28/opinion/sunday/mike-pence-holy-terror.html",
+            "adx_keywords": "Books and Literature;The Shadow President: The Truth About Mike Pence (Book);D'Antonio, Michael;Eisner, Peter (Author);Pence, Mike;Trump, Donald J;Vice Presidents and Vice Presidency (US);United States Politics and Government",
+            "column": null,
+            "section": "Opinion",
+            "byline": "By FRANK BRUNI",
+            "type": "Article",
+            "title": "Mike Pence, Holy Terror",
+            "abstract": "Are you sure you want to get rid of Donald Trump?",
+            "published_date": "2018-07-28",
+            "source": "The New York Times",
+            "id": 100000006028849,
+            "asset_id": 100000006028849,
+            "views": 11,
+            "des_facet": [
+                "BOOKS AND LITERATURE",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "VICE PRESIDENTS AND VICE PRESIDENCY (US)"
+            ],
+            "per_facet": [
+                "D'ANTONIO, MICHAEL",
+                "EISNER, PETER (AUTHOR)",
+                "PENCE, MIKE",
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Ben Wiseman; Photograph by Ruth Fremson/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/sunday/29bruni/29bruni-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/sunday/29bruni/29bruni-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/sunday/29bruni/29bruni-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 200,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/sunday/29bruni/29bruni-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/sunday/29bruni/29bruni-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 1024,
+                            "width": 973
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/sunday/29bruni/29bruni-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 2048,
+                            "width": 1945
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/sunday/29bruni/29bruni-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/sunday/29bruni/29bruni-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/sunday/29bruni/29bruni-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/sunday/29bruni/29bruni-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/interactive/2018/07/24/business/energy-environment/hoover-dam-renewable-energy.html",
+            "adx_keywords": "Hoover Dam;Hydroelectric Power;Batteries;Solar Energy;Wind Power;Infrastructure (Public Works);Los Angeles Department of Water and Power",
+            "column": "",
+            "section": "Business Day",
+            "byline": "By IVAN PENN, MIKA GRÖNDAHL, DAVID WALTER BANKS, JOSH HANER and JOSH WILLIAMS",
+            "type": "Interactive",
+            "title": "The $3 Billion Plan to Turn Hoover Dam Into a Giant Battery",
+            "abstract": "Engineers want to turn the dam into a vast reservoir of excess electricity from the solar farms and wind turbines that represent the power sources of the future.",
+            "published_date": "2018-07-24",
+            "source": "The New York Times",
+            "id": 100000006017277,
+            "asset_id": 100000006017277,
+            "views": 12,
+            "des_facet": [
+                "HYDROELECTRIC POWER",
+                "BATTERIES",
+                "SOLAR ENERGY"
+            ],
+            "org_facet": [
+                "WIND POWER",
+                "INFRASTRUCTURE (PUBLIC WORKS)",
+                "LOS ANGELES DEPARTMENT OF WATER AND POWER"
+            ],
+            "per_facet": "",
+            "geo_facet": [
+                "HOOVER DAM"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "David Walter Banks for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/23/business/energy-environment/hoover-dam-battery-wind-solar-1532103962442/hoover-dam-battery-wind-solar-1532103962442-square320-v2.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/23/business/energy-environment/hoover-dam-battery-wind-solar-1532103962442/hoover-dam-battery-wind-solar-1532103962442-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/23/business/energy-environment/hoover-dam-battery-wind-solar-1532103962442/hoover-dam-battery-wind-solar-1532103962442-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 285,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/23/business/energy-environment/hoover-dam-battery-wind-solar-1532103962442/hoover-dam-battery-wind-solar-1532103962442-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/23/business/energy-environment/hoover-dam-battery-wind-solar-1532103962442/hoover-dam-battery-wind-solar-1532103962442-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 1024,
+                            "width": 683
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/23/business/energy-environment/hoover-dam-battery-wind-solar-1532103962442/hoover-dam-battery-wind-solar-1532103962442-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 2048,
+                            "width": 1366
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/23/business/energy-environment/hoover-dam-battery-wind-solar-1532103962442/hoover-dam-battery-wind-solar-1532103962442-square640-v2.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/23/business/energy-environment/hoover-dam-battery-wind-solar-1532103962442/hoover-dam-battery-wind-solar-1532103962442-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/23/business/energy-environment/hoover-dam-battery-wind-solar-1532103962442/hoover-dam-battery-wind-solar-1532103962442-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/23/business/energy-environment/hoover-dam-battery-wind-solar-1532103962442/hoover-dam-battery-wind-solar-1532103962442-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2018/07/26/us/politics/trump-tweets-mueller-obstruction.html",
+            "adx_keywords": "Trump, Donald J;Mueller, Robert S III;Special Prosecutors (Independent Counsel);Russian Interference in 2016 US Elections and Ties to Trump Associates;United States Politics and Government;Sessions, Jefferson B III;Comey, James B;Justice Department;Federal Bureau of Investigation;Twitter;Social Media",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By MICHAEL S. SCHMIDT and MAGGIE HABERMAN",
+            "type": "Article",
+            "title": "Mueller Examining Trump’s Tweets in Wide-Ranging Obstruction Inquiry",
+            "abstract": "The president’s public attacks on Jeff Sessions and James Comey, which came as he was also privately pressuring them, are being scrutinized.",
+            "published_date": "2018-07-26",
+            "source": "The New York Times",
+            "id": 100000005992492,
+            "asset_id": 100000005992492,
+            "views": 13,
+            "des_facet": [
+                "SPECIAL PROSECUTORS (INDEPENDENT COUNSEL)",
+                "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "JUSTICE DEPARTMENT",
+                "FEDERAL BUREAU OF INVESTIGATION",
+                "TWITTER",
+                "SOCIAL MEDIA"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J",
+                "MUELLER, ROBERT S III",
+                "SESSIONS, JEFFERSON B III",
+                "COMEY, JAMES B"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Investigators for the special counsel, Robert S. Mueller III, have told President Trump&rsquo;s lawyers that they want to question him about his tweets.",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/us/politics/27dc-obstruct-2-print/07dc-tamper-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/us/politics/27dc-obstruct-2-print/07dc-tamper-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/us/politics/27dc-obstruct-2-print/07dc-tamper-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/us/politics/27dc-obstruct-2-print/07dc-tamper-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 264,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/us/politics/27dc-obstruct-2-print/07dc-tamper-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 683,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/us/politics/27dc-obstruct-2-print/07dc-tamper-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1366,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/us/politics/27dc-obstruct-2-print/07dc-tamper-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/us/politics/27dc-obstruct-2-print/07dc-tamper-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/us/politics/27dc-obstruct-2-print/07dc-tamper-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/us/politics/27dc-obstruct-2-print/07dc-tamper-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2018/07/29/opinion/columnists/trump-loss-re-election-2020.html",
+            "adx_keywords": "Trump, Donald J;Presidential Election of 2020;United States Politics and Government;Warren, Elizabeth;Holder, Eric H Jr",
+            "column": null,
+            "section": "Opinion",
+            "byline": "By DAVID LEONHARDT",
+            "type": "Article",
+            "title": "How Trump Lost Re-election in 2020",
+            "abstract": "A sneak peek at The Times’s news analysis from Nov. 4, 2020.",
+            "published_date": "2018-07-29",
+            "source": "The New York Times",
+            "id": 100000006028980,
+            "asset_id": 100000006028980,
+            "views": 14,
+            "des_facet": [
+                "PRESIDENTIAL ELECTION OF 2020",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "TRUMP, DONALD J",
+                "WARREN, ELIZABETH",
+                "HOLDER, ERIC H JR"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Carolyn Kaster/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/29leonhardt/29leonhardt-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/29leonhardt/29leonhardt-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/29leonhardt/29leonhardt-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 128,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/29leonhardt/29leonhardt-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/29leonhardt/29leonhardt-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 689,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/29leonhardt/29leonhardt-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1379,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/29leonhardt/29leonhardt-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/29leonhardt/29leonhardt-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/29leonhardt/29leonhardt-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/29/opinion/29leonhardt/29leonhardt-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2018/07/28/us/politics/jared-ivanka-trump.html",
+            "adx_keywords": "Kushner, Jared;Trump, Ivanka;United States Politics and Government;Trump, Donald J",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By MAGGIE HABERMAN and KATIE ROGERS",
+            "type": "Article",
+            "title": "Still Standing, Jared Kushner and Ivanka Trump Step Back in the Spotlight",
+            "abstract": "They have waited out, and in some cases ground down, their critics, and are ready to make a more visible push for their projects.",
+            "published_date": "2018-07-28",
+            "source": "The New York Times",
+            "id": 100000006013403,
+            "asset_id": 100000006013403,
+            "views": 15,
+            "des_facet": [
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "KUSHNER, JARED",
+                "TRUMP, IVANKA",
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Despite a bruising 18 months, Ivanka Trump and Jared Kushner are as close to the center of President Trump’s orbit as they have ever been.",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/us/politics/28dc-javanka-promo-mobile/28dc-javanka-promo-mobile-square320-v4.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/us/politics/28dc-javanka-promo-mobile/00dc-javanka-1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/us/politics/28dc-javanka-promo-mobile/28dc-javanka-print-articleInline-v2.jpg",
+                            "format": "Normal",
+                            "height": 128,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/us/politics/28dc-javanka-promo-mobile/00dc-javanka-1-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/us/politics/28dc-javanka-promo-mobile/28dc-javanka-promo-mobile-jumbo-v2.jpg",
+                            "format": "Jumbo",
+                            "height": 512,
+                            "width": 768
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/us/politics/28dc-javanka-promo-mobile/28dc-javanka-promo-mobile-superJumbo-v2.jpg",
+                            "format": "superJumbo",
+                            "height": 512,
+                            "width": 768
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/us/politics/28dc-javanka-promo-mobile/28dc-javanka-promo-mobile-square640-v4.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/us/politics/28dc-javanka-promo-mobile/00dc-javanka-1-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/us/politics/28dc-javanka-promo-mobile/28dc-javanka-print-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/us/politics/28dc-javanka-promo-mobile/28dc-javanka-print-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2018/07/24/us/politics/farmers-aid-trade-war.html",
+            "adx_keywords": "Agriculture and Farming;Agriculture Department;Federal Aid (US);Trump, Donald J;Customs (Tariff);Protectionism (Trade);International Trade and World Market;United States Politics and Government",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By JULIE HIRSCHFELD DAVIS and ANA SWANSON",
+            "type": "Article",
+            "title": "To Ease Pain of Trump’s Trade War: $12 Billion in Aid for Farmers",
+            "abstract": "The move drew swift condemnation from many farm groups and lawmakers, including several Republicans, and signaled that the president is digging in on his tariffs.",
+            "published_date": "2018-07-24",
+            "source": "The New York Times",
+            "id": 100000006022532,
+            "asset_id": 100000006022532,
+            "views": 16,
+            "des_facet": [
+                "AGRICULTURE AND FARMING",
+                "CUSTOMS (TARIFF)",
+                "PROTECTIONISM (TRADE)",
+                "INTERNATIONAL TRADE AND WORLD MARKET",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "AGRICULTURE DEPARTMENT",
+                "FEDERAL AID (US)"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A soybean field in Missouri. One study estimates that soybean, corn and wheat farmers have lost $13 billion in the trade war.",
+                    "copyright": "Shannon Stapleton/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/politics/25dc-farmaid-print/25dc-farmbill-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/politics/25dc-farmaid-print/25dc-farmbill-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/politics/25dc-farmaid-print/merlin_140989995_2600af6b-b691-4ae2-94d3-bca7b14acf1e-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/politics/25dc-farmaid-print/merlin_140989995_2600af6b-b691-4ae2-94d3-bca7b14acf1e-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/politics/25dc-farmaid-print/merlin_140989995_2600af6b-b691-4ae2-94d3-bca7b14acf1e-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 683,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/politics/25dc-farmaid-print/merlin_140989995_2600af6b-b691-4ae2-94d3-bca7b14acf1e-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1366,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/politics/25dc-farmaid-print/25dc-farmbill-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/politics/25dc-farmaid-print/25dc-farmbill-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/politics/25dc-farmaid-print/25dc-farmaid-print-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/politics/25dc-farmaid-print/25dc-farmaid-print-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2018/07/24/us/politics/trump-cohen-tape.html",
+            "adx_keywords": "Cohen, Michael D (1966- );Trump, Donald J;McDougal, Karen (1971- );Campaign Finance;Adultery;American Media Inc;National Enquirer;Audio Recordings, Downloads and Streaming;Giuliani, Rudolph W;United States Politics and Government;Presidential Election of 2016",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By MICHAEL S. SCHMIDT, MAGGIE HABERMAN and JIM RUTENBERG",
+            "type": "Article",
+            "title": "Michael Cohen Releases Tape of Trump Discussing Hush Money for Playboy Model",
+            "abstract": "Michael D. Cohen, President Trump’s former personal lawyer, escalated their dispute by releasing a secret recording of a conversation they had about payments to a former Playboy model.",
+            "published_date": "2018-07-25",
+            "source": "The New York Times",
+            "id": 100000006023720,
+            "asset_id": 100000006023720,
+            "views": 17,
+            "des_facet": [
+                "CAMPAIGN FINANCE",
+                "ADULTERY",
+                "AUDIO RECORDINGS, DOWNLOADS AND STREAMING",
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "PRESIDENTIAL ELECTION OF 2016"
+            ],
+            "org_facet": [
+                "AMERICAN MEDIA INC",
+                "NATIONAL ENQUIRER"
+            ],
+            "per_facet": [
+                "COHEN, MICHAEL D (1966- )",
+                "TRUMP, DONALD J",
+                "MCDOUGAL, KAREN (1971- )",
+                "GIULIANI, RUDOLPH W"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump’s former personal lawyer, Michael D. Cohen, this month in New York. He is under investigation for a wide array of his business and legal dealings.",
+                    "copyright": "Brendan Mcdermid/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/25dc-recording1/25dc-recording1-square320-v2.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/25dc-recording1/25dc-recording1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/25dc-recording1/25dc-recording1-articleInline-v2.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/25dc-recording1/25dc-recording1-sfSpan-v2.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/25dc-recording1/25dc-recording1-jumbo-v2.jpg",
+                            "format": "Jumbo",
+                            "height": 683,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/25dc-recording1/25dc-recording1-superJumbo-v2.jpg",
+                            "format": "superJumbo",
+                            "height": 1366,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/25dc-recording1/25dc-recording1-square640-v2.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/25dc-recording1/25dc-recording1-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/25dc-recording1/25dc-recording1-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/25/us/25dc-recording1/25dc-recording1-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2018/07/29/us/politics/trump-new-york-times-sulzberger.html",
+            "adx_keywords": "Sulzberger, A G;Trump, Donald J;News and News Media;New York Times;United States Politics and Government",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By MARK LANDLER",
+            "type": "Article",
+            "title": "New York Times Publisher and Trump Clash Over President’s Threats Against Journalism",
+            "abstract": "The Times publisher, A.G. Sulzberger, disputed how President Trump characterized a meeting between the two, and Mr. Trump accused newspapers of putting lives at risk.",
+            "published_date": "2018-07-29",
+            "source": "The New York Times",
+            "id": 100000006030433,
+            "asset_id": 100000006030433,
+            "views": 18,
+            "des_facet": [
+                "NEWS AND NEWS MEDIA"
+            ],
+            "org_facet": [
+                "NEW YORK TIMES",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "per_facet": [
+                "SULZBERGER, A G",
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump said on Twitter that he and A.G. Sulzberger, the publisher of The New York Times, had discussed “the vast amounts of Fake News being put out by the media &amp; how that Fake News has morphed into phrase, ‘Enemy of the People.’ Sad!”",
+                    "copyright": "Tom Brenner for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/us/politics/30dc-trump1/30dc-trump1-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/us/politics/30dc-trump1/30dc-trump1-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/us/politics/30dc-trump1/30dc-trump1-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 140,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/us/politics/30dc-trump1/30dc-trump1-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/us/politics/30dc-trump1/30dc-trump1-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 828,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/us/politics/30dc-trump1/30dc-trump1-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1655,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/us/politics/30dc-trump1/30dc-trump1-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/us/politics/30dc-trump1/30dc-trump1-thumbLarge-v2.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/us/politics/30dc-trump1/30dc-trump1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/us/politics/30dc-trump1/30dc-trump1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2018/07/30/opinion/urban-rural-united-states-regions-midterms.html",
+            "adx_keywords": "Presidential Election of 2016;United States Politics and Government;States (US);Rural Areas;Urban Areas;Democratic Party;Obama, Barack;Trump, Donald J;Appalachian Region;United States",
+            "column": null,
+            "section": "Opinion",
+            "byline": "By COLIN WOODARD",
+            "type": "Article",
+            "title": "The Maps That Show That City vs. Country Is Not Our Political Fault Line ",
+            "abstract": "The key difference is among regional cultures tracing back to the nation’s colonization. ",
+            "published_date": "2018-07-30",
+            "source": "The New York Times",
+            "id": 100000006016393,
+            "asset_id": 100000006016393,
+            "views": 19,
+            "des_facet": [
+                "PRESIDENTIAL ELECTION OF 2016",
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "STATES (US)"
+            ],
+            "org_facet": [
+                "RURAL AREAS",
+                "URBAN AREAS",
+                "DEMOCRATIC PARTY"
+            ],
+            "per_facet": [
+                "OBAMA, BARACK",
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": [
+                "APPALACHIAN REGION",
+                "UNITED STATES"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/opinion/30woodard-promo/30woodard-promo-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/opinion/30woodard-promo/30woodard-promo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/opinion/30woodard-promo/30woodard-promo-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 98,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/opinion/30woodard-promo/30woodard-promo-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 264,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/opinion/30woodard-promo/30woodard-promo-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 404,
+                            "width": 783
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/opinion/30woodard-promo/30woodard-promo-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 404,
+                            "width": 783
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/opinion/30woodard-promo/30woodard-promo-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/opinion/30woodard-promo/30woodard-promo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/30/opinion/30woodard-promo/30woodard-promo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2018/07/27/science/grieving-orca-dead-calf.html",
+            "adx_keywords": "Whales and Whaling;Endangered and Extinct Species;Pacific Northwestern States (US);San Juan Islands (Wash);Washington (State);Southern Resident Killer Whales",
+            "column": null,
+            "section": "Science",
+            "byline": "By MIHIR ZAVERI",
+            "type": "Article",
+            "title": "Grieving Orca Carries Dead Calf for More Than 3 Days: ‘She’s Just Not Letting Go’",
+            "abstract": "The calf, part of a declining population of orca whales in the Pacific Northwest, was the first born in the area since 2015.",
+            "published_date": "2018-07-27",
+            "source": "The New York Times",
+            "id": 100000006028378,
+            "asset_id": 100000006028378,
+            "views": 20,
+            "des_facet": [
+                "WHALES AND WHALING",
+                "ENDANGERED AND EXTINCT SPECIES"
+            ],
+            "org_facet": "",
+            "per_facet": "",
+            "geo_facet": [
+                "PACIFIC NORTHWESTERN STATES (US)",
+                "SAN JUAN ISLANDS (WASH)",
+                "WASHINGTON (STATE)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An orca whale has carried her dead calf on her nose for days in the Pacific Northwest.",
+                    "copyright": "Michael Weiss/Center for Whale Research, via Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/us/28xp-orca/28xp-orca-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/us/28xp-orca/28xp-orca-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/us/28xp-orca/28xp-orca-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 130,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/us/28xp-orca/28xp-orca-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 264,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/us/28xp-orca/28xp-orca-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 683,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/us/28xp-orca/28xp-orca-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1366,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/us/28xp-orca/28xp-orca-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/us/28xp-orca/28xp-orca-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/us/28xp-orca/28xp-orca-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/07/27/us/28xp-orca/28xp-orca-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
