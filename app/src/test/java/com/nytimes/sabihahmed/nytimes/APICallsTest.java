@@ -36,13 +36,12 @@ public class APICallsTest {
 
     @Test
     public void testSuccessResponse() {
-        MockResponse mockResponse = new MockResponse().setResponseCode(200).setBody()
+
     }
 
 
-    private ResponseNews getDummyNews(){
+    private void getDummyNews(){
 
-        Gson gson = new Gson();
-        gson.fromJson(FileHelper.getFile(this));
+
     }
 }
